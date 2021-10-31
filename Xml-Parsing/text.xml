@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<name>Test file</name>
+	<plants>
+		<tree>
+			<element>
+				<age>12</age>
+				<name>Spruce</name>
+				<height>13</height>
+				<status>Not planted</status>
+			</element>
+			<element>
+				<age>3</age>
+				<name>Larch</name>
+				<height>24</height>
+				<status>Planted</status>
+			</element>
+			<element>
+				<age>0</age>
+				<name>Linden</name>
+				<height>1</height>
+				<status>Planted</status>
+			</element>
+		</tree>
+		<bush>
+			<element>
+				<age>0</age>
+				<name>Roses</name>
+				<height>2</height>
+				<status>Not planted</status>
+			</element>
+			<element>
+				<age>0</age>
+				<name>Thuja</name>
+				<height>5</height>
+				<status>Not planted</status>
+			</element>
+			<element>
+				<age>2</age>
+				<name>Barberry</name>
+				<height>10</height>
+				<status>Planted</status>
+			</element>
+			<element>
+				<age>0</age>
+				<name>Juniper</name>
+				<height>6</height>
+				<status>Not planted</status>
+			</element>
+		</bush>
+	</plants>
+</root>
